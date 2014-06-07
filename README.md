@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](about.me/Hom)
 * Version : v1.0 測試中 ...
-* Update  : 2014/05/12
+* Update  : 2014/06/07
 
 Description
 ========
