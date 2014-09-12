@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](about.me/Hom)
 * Version : v1.0 測試中 ...
-* Update  : 2014/06/07
+* Update  : 2014/09/12
 
 Description
 ========
@@ -29,7 +29,7 @@ Hardware
 Related Documents
 ========
 * [Update Records - Hackpad](https://hom.hackpad.com/QCopterNano-iIRgMU2Scgx)
-* [Datasheet & BOM - Google Drive](https://drive.google.com/?tab=wo&authuser=0#folders/0BzL2wwAot6oPLWh1bEZ3TzB1R1k)
+* [Datasheet & BOM - Google Drive](http://goo.gl/Bqsjgs)
 
 Software
 ========
